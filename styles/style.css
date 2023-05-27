@@ -270,7 +270,7 @@ body {
 
   .top-player-card > div {
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 15px;
   }
 }
