@@ -55,7 +55,8 @@ body {
   height: 30px;
 }
 
-.top-player {
+.top-player,
+.latest-course {
   /* display: flex; */
   margin: 20px auto;
   background-color: #ffffff;
@@ -262,7 +263,8 @@ body {
     align-items: center;
   }
 
-  .top-player {
+  .top-player,
+  .latest-course {
     width: 90%;
   }
 
