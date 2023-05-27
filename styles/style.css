@@ -5,6 +5,8 @@
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
   font-family: "Work Sans", sans-serif;
+
+  user-select: none;
 }
 body {
   background-color: #f3f2ff;
