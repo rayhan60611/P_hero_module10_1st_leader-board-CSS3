@@ -69,6 +69,7 @@ body {
 .top-player h3 {
   padding-top: 25px;
   padding-left: 20px;
+  color: #562eff;
 }
 
 .top-player-card {
@@ -93,6 +94,7 @@ body {
 
 .top-player-card hr {
   grid-column: 1 / span 3;
+  border: 1px solid #d1d1d1;
 }
 
 /* header media query */
